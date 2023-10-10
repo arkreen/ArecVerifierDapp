@@ -1,0 +1,53 @@
+Start to process...
+index.tsx:17 ========================================================================================================================
+
+index.tsx:17 Getting the info from the contract by the token ID which is 5 ...
+index.tsx:17 ========================================================================================================================
+
+index.tsx:17 There are in total 2 miners!
+index.tsx:17 ========================================================================================================================
+
+index.tsx:17 Starting to process miner 1
+index.tsx:17 ------------------------------------------------------------
+index.tsx:17 The info of miner 0x5f7fEA55D8B8dBbd3f03eEFB9dB7B6f95c34936D :
+index.tsx:17 URL	                                                                                Date	        Energy(Wh)
+index.tsx:17 https://bafkreidysd6q2cnyhoiowjnur34lnulqsh3nzvghdut6z3fbiss4wmlfzy.ipfs.w3s.link	2023-05-23	10
+index.tsx:17 https://bafkreiho3qoejbc2cnqnqyn3dck7i3fo6dneqaafbnqwkblhb7bobmflai.ipfs.w3s.link	2023-05-24	315
+index.tsx:17 https://bafkreicsfpjhbzhbc6ofaxon7kitengezudvopyi2oc7os2cgyt2iqpsw4.ipfs.w3s.link	2023-05-25	280
+index.tsx:17 https://bafkreieuc7hvdk43gz4swbwmldq7k5fxoflnhsjekvqky3ahuo67m724ju.ipfs.w3s.link	2023-05-26	320
+index.tsx:17 https://bafkreiddesdzaor76iqoc56xgbaas5oqkknrxrcloqbixlhrnvxz5goqey.ipfs.w3s.link	2023-05-27	290
+index.tsx:17 https://bafkreihtd7tsvxzn3efwbstbndd6wyh2hmj2jxlfadyw3scw7grm37bq2y.ipfs.w3s.link	2023-05-28	0
+index.tsx:17 https://bafkreihyxrl43vonqkitltyoawwcmtt4cx4ciom4bufm6oyxzyjp4ya4ce.ipfs.w3s.link	2023-05-29	0
+index.tsx:17 https://bafkreic7aluzavi2gzzh7pzgmekgkpe5fjju5ujebhlhcyy2dj4qp7hlnm.ipfs.w3s.link	2023-05-30	290
+index.tsx:17 https://bafkreihwfkg62qe5gcbwtv4yehhaok4ptjqr74spxltba2z6c3hjcdbhou.ipfs.w3s.link	2023-05-31	250
+index.tsx:17 https://bafkreicsvdkk5syo6wruohijq2kbbadmwlarek5wgdulpwgl4dvpwbfwbq.ipfs.w3s.link	2023-06-01	350
+index.tsx:17 https://bafkreifbd2q3voy343tiscehm4xcijiavf4tu7bqoewuftcvmghuflvmfu.ipfs.w3s.link	2023-06-02	285
+index.tsx:17 https://bafkreiaptuzy5cbpsm2vu2mbltwjfeekdgdzqeuf4u7ttoljjdte5ba44m.ipfs.w3s.link	2023-06-03	170
+index.tsx:17 https://bafkreicutz65qmwdihdrvihafa6rgxtckfb2wzbo7ohv2m7qvawahn5od4.ipfs.w3s.link	2023-06-04	180
+index.tsx:17 https://bafkreicliihb36trnkfavydlim5umzpyxmghfe6vnrzmtgusb75bel73k4.ipfs.w3s.link	2023-06-05	235
+ArecVerifierCheck.ts:439 ========================================================================================================================
+
+index.tsx:17 Starting to process miner 2
+index.tsx:17 ------------------------------------------------------------
+index.tsx:17 The info of miner 0x653AD2ab314cF6A6840Bf62fB4ef542C984d824f :
+index.tsx:17 URL	                                                                                Date	        Energy(Wh)
+index.tsx:17 https://bafkreie2ay6q2lzfguaixcuxiyc2c7gclal5mx46hl42ujo76tufp6qnmy.ipfs.w3s.link	2023-05-23	10
+index.tsx:17 https://bafkreig3gieptlgvgjfqjfc5uk3ssem6b5ffmh2b5gw6u2rpmhrmh7o2o4.ipfs.w3s.link	2023-05-24	315
+index.tsx:17 https://bafkreigsg3gxnpnhmb6yf7fkfvfv76trnvu3gfwxqcbe7vt374k76xc7ei.ipfs.w3s.link	2023-05-25	280
+index.tsx:17 https://bafkreihdlnzxfyjhnxssmgl7l3mzgn53skky7rtu4pruuqs3lckyy2hoye.ipfs.w3s.link	2023-05-26	320
+index.tsx:17 https://bafkreig27dsnlcbnrwywbxynpbrhjh5vppcfjdqtj7nezf4uah75dirbni.ipfs.w3s.link	2023-05-27	290
+index.tsx:17 https://bafkreickaovl47wmpnesp2avxwfzk4bhcljl2gk7nrb2kdtlgt3jl3wcim.ipfs.w3s.link	2023-05-28	0
+index.tsx:17 https://bafkreidzu5gaclluo2wtiu45gcfin7ketabestmxnxs33iitxvui4ee74y.ipfs.w3s.link	2023-05-29	5
+index.tsx:17 https://bafkreihs36s6t3hqzgjhqbjtclupgb7ltwxrqudmcc6cxt7xc3ixlf5j4y.ipfs.w3s.link	2023-05-30	285
+index.tsx:17 https://bafkreihiban2zwezjdalaun4gejylv6eck3n6znifwipeqpzcigjvwk5py.ipfs.w3s.link	2023-05-31	250
+index.tsx:17 https://bafkreif7zmudsxvyrakgvhhg24q72zls24ig6pbn37z2j6nr5pisu74rpu.ipfs.w3s.link	2023-06-01	350
+index.tsx:17 https://bafkreiaybzalra66bmu6e336azggas5wzzqahlnr5rhfcicvyprbgapepi.ipfs.w3s.link	2023-06-02	285
+index.tsx:17 https://bafkreihk7zcaobpmdpfpk2zgg55k637b6yhfjcyuqcoqkrgmmwimyuyzgm.ipfs.w3s.link	2023-06-03	170
+index.tsx:17 https://bafkreievarsvvpxl5ghf74f5kcegmb56kcemgch3fqykcojwfpf243jz5i.ipfs.w3s.link	2023-06-04	180
+index.tsx:17 https://bafkreigmdzaqjql5xjio76zd7xmlzt2zxhw25ie5vqckpkee2ds5f5ldea.ipfs.w3s.link	2023-06-05	235
+ArecVerifierCheck.ts:439 ========================================================================================================================
+
+index.tsx:17 Total energy calculated is 5950 Wh
+index.tsx:17 The amount of energy in the AREC token is 5950 Wh
+index.tsx:17 Done! Verification succeeded!
+index.tsx:17 ========================================================================================================================
