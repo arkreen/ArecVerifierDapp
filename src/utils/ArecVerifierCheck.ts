@@ -156,7 +156,7 @@ export default async function main(apiToken: string, tokenId: string, log: cbFn<
             throw 'CID is empty in this token ID!'
         }
 
-        if (nft_obj.idAsset == 1) {
+        if (nft_obj.idAsset != 0) {
             log('This tool does not support to verify this token ID currently!')
             throw 'This tool does not support to verify this token ID currently!'
         }
@@ -233,8 +233,8 @@ export default async function main(apiToken: string, tokenId: string, log: cbFn<
                     )
 
                     // Get the start date of the miner's life cycle
-                    console.log('https://api.arkreen.com/v1', 'miner:', minerAddress)
-                    const response = await axios.post("https://api.arkreen.com/v1", {
+                    console.log('https://openapi.arkreen.com/v1', 'miner:', minerAddress)
+                    const response = await axios.post("https://openapi.arkreen.com/v1", {
                         jsonrpc: '2.0',
                         method: "rec_getStartDateByMiner",
                         params: {
@@ -268,8 +268,8 @@ export default async function main(apiToken: string, tokenId: string, log: cbFn<
                             let flag = false
                             do {
                                 // Get the day cid of rec before the date of first day for the miner in this AREC
-                                console.log('https://api.arkreen.com/v1', 'date:', dateBefore)
-                                let cidInfo = await axios.post("https://api.arkreen.com/v1", {
+                                console.log('https://openapi.arkreen.com/v1', 'date:', dateBefore)
+                                let cidInfo = await axios.post("https://openapi.arkreen.com/v1", {
                                     jsonrpc: '2.0',
                                     method: "rec_getDayCid",
                                     params: {
